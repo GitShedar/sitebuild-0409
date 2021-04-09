@@ -1,0 +1,26 @@
+@import "reset";
+$lightcolor: #fff6f6;
+$darkcolor: #1b47b2;
+
+*,
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.App-main {
+  background-color: $arkcolor;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+
+@media screen and (min-width: 50em) {
+  .App-main {
+    height: 100vh;
+    justify-content: left;
+    align-content: left;
+  }
+}
