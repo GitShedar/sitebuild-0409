@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GitShedar/sitebuild-0409/static/css/main.43269096.chunk.css",
+    "main.js": "/GitShedar/sitebuild-0409/static/js/main.c40e058d.chunk.js",
+    "main.js.map": "/GitShedar/sitebuild-0409/static/js/main.c40e058d.chunk.js.map",
+    "runtime-main.js": "/GitShedar/sitebuild-0409/static/js/runtime-main.c8f61b24.js",
+    "runtime-main.js.map": "/GitShedar/sitebuild-0409/static/js/runtime-main.c8f61b24.js.map",
+    "static/js/2.07ac14e9.chunk.js": "/GitShedar/sitebuild-0409/static/js/2.07ac14e9.chunk.js",
+    "static/js/2.07ac14e9.chunk.js.map": "/GitShedar/sitebuild-0409/static/js/2.07ac14e9.chunk.js.map",
+    "static/js/3.d1e52873.chunk.js": "/GitShedar/sitebuild-0409/static/js/3.d1e52873.chunk.js",
+    "static/js/3.d1e52873.chunk.js.map": "/GitShedar/sitebuild-0409/static/js/3.d1e52873.chunk.js.map",
+    "index.html": "/GitShedar/sitebuild-0409/index.html",
+    "static/css/main.43269096.chunk.css.map": "/GitShedar/sitebuild-0409/static/css/main.43269096.chunk.css.map",
+    "static/js/2.07ac14e9.chunk.js.LICENSE.txt": "/GitShedar/sitebuild-0409/static/js/2.07ac14e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8f61b24.js",
+    "static/js/2.07ac14e9.chunk.js",
+    "static/css/main.43269096.chunk.css",
+    "static/js/main.c40e058d.chunk.js"
+  ]
+}
